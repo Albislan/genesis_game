@@ -49,3 +49,8 @@ body {
 .selected {
     opacity: 0.8;
 }
+
+.assinatura {
+    align-items: center;
+    margin-left: 50px;
+}
